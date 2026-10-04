@@ -1,0 +1,10 @@
+{
+  "name": "noor-hijabs-ecommerce-react",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix hijab-ecommerce-mvp run dev",
+    "build": "npm --prefix hijab-ecommerce-mvp run build",
+    "preview": "npm --prefix hijab-ecommerce-mvp run preview"
+  }
+}
